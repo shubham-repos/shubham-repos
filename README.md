@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @shubhambisht
-- 👀 I’m a Cyber Security Enthusiast
-- 🌱 I’m currently learning C,Python,Ethical hacking
 - 📫 reach me - conveytoshubhambisht@gmail.com
 
 <!---
