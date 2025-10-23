@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubhambisht
-- 📫 reach me - conveytoshubhambisht@gmail.com
+- 📫 reach me - contact.shubhambisht@gmail.com
 
 <!---
 conveytoshubham/conveytoshubham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
